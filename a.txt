@@ -1,2 +1,4 @@
 Typing in Remote Repository task -7
 Demo line for rebasing task 21
+Cherry-pick example for commit particular commit
+
